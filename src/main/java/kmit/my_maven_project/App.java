@@ -1,10 +1,6 @@
 package kmit.my_maven_project;
-
-/**
- * Hello world!
- */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("553 doing week 11");
     }
 }
