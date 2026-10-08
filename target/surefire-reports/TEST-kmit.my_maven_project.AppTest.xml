@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="kmit.my_maven_project.AppTest" time="0.121" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="kmit.my_maven_project.AppTest" time="0.105" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Users\SADIQ\Downloads\eclipse-committers\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.4.v20260826-0822\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\SADIQ\AppData\Local\Temp\surefire17862691431313573241\surefirebooter-20261004214622258_3.jar C:\Users\SADIQ\AppData\Local\Temp\surefire17862691431313573241 2026-10-04T21-46-21_933-jvmRun1 surefire-20261004214622258_1tmp surefire_0-20261004214622258_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\SADIQ\AppData\Local\Temp\surefire1989743741264518129\surefirebooter-20261008160343893_3.jar C:\Users\SADIQ\AppData\Local\Temp\surefire1989743741264518129 2026-10-08T16-03-43_470-jvmRun1 surefire-20261008160343893_1tmp surefire_0-20261008160343893_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\SADIQ\eclipse-workspace\my-maven-project\target\test-classes;C:\Users\SADIQ\eclipse-workspace\my-maven-project\target\classes;C:\Users\SADIQ\.m2\repository\org\junit\jupiter\junit-jupiter\5.14.3\junit-jupiter-5.14.3.jar;C:\Users\SADIQ\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.14.3\junit-jupiter-api-5.14.3.jar;C:\Users\SADIQ\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\SADIQ\.m2\repository\org\junit\platform\junit-platform-commons\1.14.3\junit-platform-commons-1.14.3.jar;C:\Users\SADIQ\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\SADIQ\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.14.3\junit-jupiter-params-5.14.3.jar;C:\Users\SADIQ\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.14.3\junit-jupiter-engine-5.14.3.jar;C:\Users\SADIQ\.m2\repository\org\junit\platform\junit-platform-engine\1.14.3\junit-platform-engine-1.14.3.jar;C:\Users\SADIQ\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\SADIQ\.m2\repository\javax\servlet\javax.servlet-api\4.0.1\javax.servlet-api-4.0.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -26,12 +26,11 @@
     <property name="java.home" value="C:\Users\SADIQ\Downloads\eclipse-committers\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.4.v20260826-0822\jre"/>
     <property name="file.separator" value="\"/>
     <property name="basedir" value="C:\Users\SADIQ\eclipse-workspace\my-maven-project"/>
-    <property name="style.color" value="always"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\SADIQ\AppData\Local\Temp\surefire17862691431313573241\surefirebooter-20261004214622258_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\SADIQ\AppData\Local\Temp\surefire1989743741264518129\surefirebooter-20261008160343893_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25.0.4.1+1-LTS"/>
@@ -61,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="kmit.my_maven_project.AppTest" time="0.055"/>
+  <testcase name="shouldAnswerWithTrue" classname="kmit.my_maven_project.AppTest" time="0.05"/>
 </testsuite>
